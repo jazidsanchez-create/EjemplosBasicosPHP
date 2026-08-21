@@ -51,9 +51,10 @@ Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP (e
 
 **Jazid Sánchez**
 
-Estudiante de Ingeniería de Sistemas Computacionales
+Estudiante de Licenciatura en Ciberseguridad
 
 Universidad Tecnológica de Panamá
+Facultad de Sistemas Computacionales
 
 📧 **Email:** jazid.sanchez@utp.ac.pa
 
