@@ -42,3 +42,19 @@ Para ejecutar los ejemplos necesitas un entorno local de servidor web con PHP (e
 1. Descarga o clona el repositorio, ubica una carpeta en `www` -> para WampServer o `htdocs` si es XAMPP:
    ```bash
    git clone [https://github.com/jazidsanchez-create/EjemplosBasicosPHP.git](https://github.com/jazidsanchez-create/EjemplosBasicosPHP.git)
+
+1. Para correrlos edita la URL de tu navegador:
+   `http://127.0.0.1/practicas/` o
+   `http://localhost/practicas/`
+
+## 👨‍💻 Autor
+
+**Jazid Sánchez**
+
+Estudiante de Ingeniería de Sistemas Computacionales
+
+Universidad Tecnológica de Panamá
+
+📧 **Email:** jazid.sanchez@utp.ac.pa
+
+🌐 **GitHub:** https://github.com/jazidsanchez-create
